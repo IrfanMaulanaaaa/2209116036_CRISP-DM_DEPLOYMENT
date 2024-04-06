@@ -4,8 +4,4 @@ plotly.express
 numpy
 matplotlib
 seaborn
-sklearn
-joblib
-altair
-streamlit-option-menu
-googletrans==4.0.0-rc1
+scikit-learn
